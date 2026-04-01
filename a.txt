@@ -1,7 +1,7 @@
 a1
 a2
 a3
-a4
+a4 conflict door niet hetzelfde.
 Nieuwe regel
 Nieuwe regel 2
 Nieuwe regel 3
